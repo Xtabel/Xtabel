@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm passionate about the intersection of complex engineering and thoughtful design, building scalable solutions that users genuinely love. 
+I'm passionate about solving complex problems through code while keeping the human experience at the centre of everything I build.
 
 - 🌱 I'm currently exploring **React Native**
 - 🎨 I'm also a **Product & User Experience Designer**
