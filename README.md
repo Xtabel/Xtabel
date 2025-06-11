@@ -72,14 +72,10 @@ I'm a passionate **Software Developer** specialising in **Frontend Development**
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Frontend Portfolio](https://img.shields.io/badge/Frontend%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://yourportfolio.com)
-[![Design Portfolio](https://img.shields.io/badge/Design%20Portfolio-FF6B6B?style=for-the-badge&logo=behance&logoColor=white)](https://yourdesignportfolio.com)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://christabelakpoguma.com)
+[![Frontend Portfolio](https://img.shields.io/badge/Frontend%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://christabelakpoguma.com/frontend)
+[![Design Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://christabelakpo.design)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Christabel_Akpoguma)
 
 </div>
 
