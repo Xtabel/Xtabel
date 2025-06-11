@@ -95,35 +95,3 @@ I'm a passionate **Software Developer** specialising in **Frontend Development**
 
 </div>
 
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-  
-### 👁️ Profile Views
-![](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=for-the-badge)
-
-### ⭐ Show some love by starring some repositories!
-
-**💖 Thank you for visiting my profile! Have a great day! 💖**
-
-</div>
