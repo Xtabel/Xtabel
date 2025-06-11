@@ -74,7 +74,7 @@ I'm a passionate **Software Developer** specialising in **Frontend Development**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://christabelakpoguma.com)
 [![Frontend Portfolio](https://img.shields.io/badge/Frontend%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://christabelakpoguma.com/frontend)
-[![Design Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://christabelakpo.design)
+[![Design Portfolio](https://img.shields.io/badge/UX%20Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://christabelakpo.design)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Christabel_Akpoguma)
 
 </div>
