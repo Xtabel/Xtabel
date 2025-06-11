@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Xtabel/Xtabel/blob/main/profile.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xtabel/Xtabel/main/profile.gif">
 
 ## 🚀 About Me
 
