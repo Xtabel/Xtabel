@@ -10,7 +10,7 @@
   <img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/Xtabel/Xtabel/main/profile.gif" draggable="false">
 </a>
 
-## 🚀 About Me
+### 🚀 About Me
 
 I'm a passionate **Software Developer** specialising in **Frontend Development** and **Product Design**. 
 
@@ -20,9 +20,8 @@ I'm a passionate **Software Developer** specialising in **Frontend Development**
 - 📫 How to reach me: *christabelakpoguma@gmail.com*
 - ⚡ Fun fact: **I love writing and working on anything creative**
 
----
 
-## 🛠️ Tech Stack & Design Tools
+### 🛠️ Tech Stack & Design Tools
 
 <div align="center">
 
