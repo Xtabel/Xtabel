@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Software Developer** specialising in **Frontend Development** and **Product Design**. 
+I'm passionate about the intersection of complex engineering and thoughtful design, building scalable solutions that users genuinely love. 
 
 - 🌱 I'm currently exploring **React Native**
 - 🎨 I'm also a **Product & User Experience Designer**
