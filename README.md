@@ -96,17 +96,6 @@ I'm a passionate **Software Developer** specialising in **Frontend Development**
 
 </div>
 
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
-
-</div>
-
----
 
 ## 🌐 Connect with Me
 
@@ -122,37 +111,3 @@ I'm a passionate **Software Developer** specialising in **Frontend Development**
 
 </div>
 
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-  
-### 👁️ Profile Views
-![](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=for-the-badge)
-
-### ⭐ Show some love by starring some repositories!
-
-**💖 Thank you for visiting my profile! Have a great day! 💖**
-
-</div>
-
-n
