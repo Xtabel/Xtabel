@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** specialising in **Frontend Development** and **Product Design**. I love creating beautiful, user-centred digital experiences that seamlessly blend functionality with aesthetic appeal. My unique combination of development and design skills allows me to bridge the gap between what users need and what technology can deliver.
+I'm a passionate **Software Developer** specialising in **Frontend Development** and **Product Design**. 
 
 - 🔭 I'm currently working on a personal project called **Music Maze**
 - 🌱 I'm currently learning **React Native**
