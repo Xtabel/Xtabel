@@ -76,78 +76,12 @@ I'm a passionate **Software Developer** specialising in **Frontend Development**
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
-</div>
-
----
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-### 🌟 [Project Name 1](https://github.com/yourusername/project1)
-**Description**: Brief description of what this project does and why it's awesome
-  
-**Tech Stack**: React, Node.js, MongoDB, Express
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-demo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project1)
-
----
-
-### 🌟 [Project Name 2](https://github.com/yourusername/project2)
-**Description**: Brief description of what this project does and why it's awesome
-  
-**Tech Stack**: Python, Django, PostgreSQL
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-demo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project2)
-
----
-
-### 🌟 [Project Name 3](https://github.com/yourusername/project3)
-**Description**: Brief description of what this project does and why it's awesome
-  
-**Tech Stack**: Vue.js, Firebase, Tailwind CSS
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-demo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project3)
-
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
-
-</div>
-
----
+### 🌟
 
 ## 🌐 Connect with Me
 
