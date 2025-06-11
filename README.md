@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Christabel Akpoguma 👋
 
 <div align="center">
   
@@ -10,14 +10,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** specializing in **Frontend Development** and **Product Design**. I love creating beautiful, user-centered digital experiences that seamlessly blend functionality with aesthetic appeal. My unique combination of development and design skills allows me to bridge the gap between what users need and what technology can deliver.
+I'm a passionate **Software Developer** specialising in **Frontend Development** and **Product Design**. I love creating beautiful, user-centred digital experiences that seamlessly blend functionality with aesthetic appeal. My unique combination of development and design skills allows me to bridge the gap between what users need and what technology can deliver.
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology you're learning]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, UI/UX Design, or anything tech**
-- 🎨 I also create **Product Designs & User Interfaces**
-- 📫 How to reach me: **your.email@example.com**
+- 🔭 I'm currently working on a personal project called **Music Maze**
+- 🌱 I'm currently learning **React Native**
+- 🎨 I'm also a **Product & User Experience Designer**
+- 📫 How to reach me: *christabelakpoguma@gmail.com**
 - ⚡ Fun fact: **I love writing and working on anything creative**
 
 ---
