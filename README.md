@@ -11,13 +11,11 @@
 ## 🚀 About Me
 I'm a passionate **Software Developer** specialising in **Frontend Development** and **Product Design**. I love creating beautiful, user-centred digital experiences that seamlessly blend functionality with aesthetic appeal. My unique combination of development and design skills allows me to bridge the gap between what users need and what technology can deliver.
 
-- 🔭 I'm currently working on a personal project **Music Maze**
+- 🔭 I'm currently working on a personal project called **Music Maze**
 - 🌱 I'm currently learning **React Native**
-- 👯 I'm looking to collaborate on **Open Source Projects**
 - 🎨 I also do **Product Design & UI/UX**
 - 💡 Passionate about creating seamless user experiences
 - 🔄 Bridging the gap between design and development
-- 💬 Ask me about **React, Next.js, RTK, or anything tech**
 - 📫 How to reach me: **christabelakpoguma@gmail.com**
 - ⚡ Fun fact: **I love writing and working on anything creative**
 
