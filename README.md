@@ -62,40 +62,6 @@ I'm a passionate **Software Developer** specialising in **Frontend Development**
 
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🌟 [Project Name 1](https://github.com/yourusername/project1)
-**Description**: Brief description of what this project does and why it's awesome
-  
-**Tech Stack**: React, Node.js, MongoDB, Express
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-demo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project1)
-
----
-
-### 🌟 [Project Name 2](https://github.com/yourusername/project2)
-**Description**: Brief description of what this project does and why it's awesome
-  
-**Tech Stack**: Python, Django, PostgreSQL
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-demo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project2)
-
----
-
-### 🌟 [Project Name 3](https://github.com/yourusername/project3)
-**Description**: Brief description of what this project does and why it's awesome
-  
-**Tech Stack**: Vue.js, Firebase, Tailwind CSS
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-demo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project3)
-
-</div>
-
 
 ## 🌐 Connect with Me
 
