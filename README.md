@@ -14,7 +14,6 @@
 
 I'm a passionate **Software Developer** specialising in **Frontend Development** and **Product Design**. 
 
-- 🔭 I'm currently working on a personal project called **Music Maze**
 - 🌱 I'm currently learning **React Native**
 - 🎨 I'm also a **Product & User Experience Designer**
 - 📫 How to reach me: *christabelakpoguma@gmail.com*
