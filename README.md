@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Xtabel/Xtabel/blob/main/_65ccf815-e083-4b3c-bef3-696f580331f4--Untitledvideo-MadewithClipchamp-ezgif.com-optimize.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Xtabel/Xtabel/blob/main/profile.gif">
 
 ## 🚀 About Me
 
