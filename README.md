@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Amazing+Projects)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Amazing+Projects)](https://git.io/typing-svg](https://github.com/Xtabel/Xtabel/blob/main/_65ccf815-e083-4b3c-bef3-696f580331f4--Untitledvideo-MadewithClipchamp-ezgif.com-optimize.gif))
 
 </div>
 
