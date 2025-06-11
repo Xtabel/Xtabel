@@ -13,8 +13,11 @@
 - 🔭 I'm currently working on **[Your Current Project]**
 - 🌱 I'm currently learning **[Technology you're learning]**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, Python, or anything tech**
-- 📫 How to reach me: **your.email@example.com**
+- 🎨 I also do **Product Design & UI/UX**
+- 💡 Passionate about creating seamless user experiences
+- 🔄 Bridging the gap between design and development
+- 💬 Ask me about **React, Next js, Python, or anything tech**
+- 📫 How to reach me: **christabelakpoguma@gmail.com**
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ---
@@ -31,11 +34,10 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+### Design Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -132,6 +134,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
+[![Design Portfolio](https://img.shields.io/badge/Design%20Portfolio-FF6B6B?style=for-the-badge&logo=behance&logoColor=white)](https://yourdesignportfolio.com)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/yourusername)
 
 </div>
 
