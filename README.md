@@ -86,7 +86,7 @@ I'm passionate about solving complex problems through code while keeping the hum
 [![Frontend Portfolio](https://img.shields.io/badge/Frontend%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://christabelakpoguma.com/frontend)
 [![Design Portfolio](https://img.shields.io/badge/UX%20Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://christabelakpo.design)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Christabel_Akpoguma)
-[![Medium](https://img.shields.io/badge/Medium-6E6E6E?style=for-the-badge&logo=medium&logoColor=white)](medium.com/@christabelakpoguma)
+[![Medium](https://img.shields.io/badge/Medium-6E6E6E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@christabelakpoguma)
 
 </div>
 
