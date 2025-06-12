@@ -68,6 +68,16 @@ I'm passionate about solving complex problems through code while keeping the hum
 
 </div>
 
+## 📃 A Few Certifications I've Earned
+<ul>
+   <li><a href="https://learn.microsoft.com/en-us/users/christabelcakpoguma-0525/credentials/af0068b18c00950b?ref=https%3A%2F%2Fwww.linkedin.com%2F">Microsoft Certified: Azure Developer Associate</a></li>
+   <li><a href="https://www.coursera.org/account/accomplishments/certificate/JEHP82LVZ5T4">Programming Languages, Part A</a></li>
+   <li><a href="https://www.coursera.org/account/accomplishments/certificate/KA25SPD7ZFFJ">Identifying Security Vulnerabilities</a></li>
+   <li><a href="https://www.credly.com/badges/ae5b7420-5d32-4902-87f8-31bb139192b0/public_url">McKinsey.org Forward Program</a></li>
+   <li><a href="https://www.coursera.org/account/accomplishments/certificate/Q75R38V72ABQ">Cracking the Creativity Code: Discovering Ideas</a></li>
+   <li><a href="https://www.linkedin.com/learning/certificates/ac20e1566911e071029f5b07be275f44be98537c5e8a206d55ea5596b5987d4d?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bu%2FvSnHBWTy2DLenq5XBsJQ%3D%3D">Design Thinking: Understanding The Process</a></li>
+</ul>
+
 ## 🌐 Also find me on
 
 <div align="center">
