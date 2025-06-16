@@ -6,7 +6,7 @@
 
 </div>
 
-<a href="https://www.christabelakpoguma.com">
+<a href="https://www.christabelakpoguma.com" target="_blank">
   <img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/Xtabel/Xtabel/main/profile.gif" draggable="false">
 </a>
 
