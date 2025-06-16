@@ -18,6 +18,7 @@ I'm passionate about solving complex problems through code while keeping the hum
 - 🎨 I'm also a **Product & User Experience Designer**
 - 📫 How to reach me: *christabelakpoguma@gmail.com*
 - ⚡ Fun fact: **I love writing and working on anything creative**
+- 🕹️ Check out this mini game I made - <a href="https://www.christabelakpoguma.com/spellingbee">Spelling Bee</a>
 
 
 ### 🛠️ Tech Stack & Design Tools
