@@ -19,6 +19,7 @@ I'm passionate about solving complex problems through code while keeping the hum
 - 📫 How to reach me: *christabelakpoguma@gmail.com*
 - ⚡ Fun fact: **I love writing and working on anything creative**
 - 🕹️ Check out this mini game I made - <a href="https://www.christabelakpoguma.com/spellingbee">Spelling Bee</a>
+- 🚀 Building <a href="https://boothafr.com/">Booth Africa</a>
 
 
 ### 🛠️ Tech Stack & Design Tools
